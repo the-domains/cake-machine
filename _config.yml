@@ -1,0 +1,14 @@
+layout_spectrum: 0.2347964
+color:
+  saturation: 0.5408163
+  lightness: 0.5633727
+  brandStrength: 0.03381881
+  brandColors:
+    - '#040404'
+    - '#2C3651'
+    - '#FFD780'
+    - '#A3A7A8'
+    - '#FC9C5D'
+  rhythmicContrast: 0.6233017
+typography_spectrum: 0.6074114
+name: Cake Machine
