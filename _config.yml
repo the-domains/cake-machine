@@ -1,4 +1,4 @@
-layout_spectrum: 0.2347964
+typography_spectrum: 0.6074114
 color:
   saturation: 0.5408163
   lightness: 0.5633727
@@ -10,5 +10,6 @@ color:
     - '#A3A7A8'
     - '#FC9C5D'
   rhythmicContrast: 0.6233017
-typography_spectrum: 0.6074114
+layout_spectrum: 0.2347964
 name: Cake Machine
+description: 'The new economy is the creative economy. Creatives, let''s run it.'
